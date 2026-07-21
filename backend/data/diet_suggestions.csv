@@ -1,0 +1,151 @@
+diet_id,condition,meal_type,diet_category,recommended_food,nutrition_focus,daily_calories,protein_grams,carbohydrates_grams,fat_grams,water_intake_liters,meal_frequency_per_day,doctor_notes
+DS0001,Obesity,Breakfast,Low Carb,Oatmeal with fruits,Weight management,768,16,39,20,1.9,6,Fight environment them process bad drop hospital provide.
+DS0002,Obesity,Lunch,High Protein,Greek yogurt with berries,Reduce sugar intake,724,47,58,32,3.8,5,Thus check adult dog Mrs one wind agreement near share leave.
+DS0003,Obesity,Dinner,High Protein,Boiled eggs with spinach,Reduce sugar intake,735,48,86,32,3.1,3,Couple watch responsibility discuss generation themselves knowledge politics owner from sing reduce.
+DS0004,Asthma,Breakfast,Cardiac Healthy,Low-fat milk and cereal,Increase fiber intake,730,45,42,16,2.9,6,Gun me glass window yet garden your increase owner that fall against film letter free recognize carry speech.
+DS0005,Chronic Kidney Disease,Dinner,Cardiac Healthy,Whole wheat toast,Lower cholesterol levels,727,18,86,7,2.8,3,See important nearly effect few prevent people partner laugh situation mind throughout direction bed head decide see common cup.
+DS0006,COPD,Dinner,Anti-inflammatory,Low-fat milk and cereal,Maintain blood pressure,523,36,37,8,2.5,6,Party accept box pressure myself top issue term participant actually red social put.
+DS0007,Asthma,Dinner,Cardiac Healthy,Boiled eggs with spinach,Improve heart health,717,28,17,15,3.9,5,Reduce so perform others bad day accept reveal thus compare stock than reveal.
+DS0008,Arthritis,Lunch,Anti-inflammatory,Whole wheat toast,Weight management,555,35,88,33,3.3,4,Time although campaign building care pay benefit professor enjoy such Congress.
+DS0009,Diabetes,Dinner,High Protein,Grilled chicken salad,Improve heart health,231,34,84,24,3.2,6,Green likely front once once structure entire fly imagine military low view defense director.
+DS0010,Asthma,Breakfast,Diabetic Friendly,Quinoa vegetable bowl,Maintain blood pressure,298,49,73,15,1.9,6,Several three top recently let strong interest radio.
+DS0011,Asthma,Lunch,High Fiber,Greek yogurt with berries,Maintain blood pressure,403,14,58,15,2.7,6,You someone save remember life general senior report at.
+DS0012,Migraine,Lunch,High Protein,Grilled chicken salad,Maintain blood pressure,248,13,20,30,3.3,5,Place begin never we new inside add need choice social mean son.
+DS0013,COPD,Breakfast,High Fiber,Lentil soup,Improve heart health,574,37,88,26,3.0,5,Stage American hold yourself loss woman hope Democrat memory newspaper best.
+DS0014,Arthritis,Dinner,High Fiber,Fresh fruit smoothie,Boost immunity,686,38,69,35,2.0,6,Out various institution collection wind according Republican product garden interview actually pick like room seat.
+DS0015,Diabetes,Lunch,High Fiber,Steamed fish with broccoli,Maintain blood pressure,482,20,22,8,2.0,3,That firm remember approach employee analysis family less top down.
+DS0016,Hypertension,Dinner,High Fiber,Greek yogurt with berries,Increase fiber intake,224,25,68,5,3.1,6,Front machine try their evening item budget material important full fear model arm.
+DS0017,Chronic Kidney Disease,Snack,High Protein,Whole wheat toast,Increase fiber intake,684,28,74,9,2.3,3,Everything determine property try usually not line charge toward local follow.
+DS0018,Arthritis,Snack,High Protein,Greek yogurt with berries,Reduce inflammation,755,35,69,5,3.9,3,Cold of despite whatever money movement interest source direction itself baby anyone environment nice.
+DS0019,Hypertension,Dinner,Low Sodium,Boiled eggs with spinach,Maintain blood pressure,271,44,26,15,2.2,6,Medical defense study hour activity man page usually hair.
+DS0020,Arthritis,Dinner,Cardiac Healthy,Brown rice with vegetables,Maintain blood pressure,542,31,16,31,4.0,3,Focus different wonder growth occur marriage direction often of toward gun trip food both drop.
+DS0021,Hypertension,Breakfast,Low Carb,Whole wheat toast,Weight management,761,13,88,22,2.4,4,Everything gas top store kind around store me there friend ago.
+DS0022,Migraine,Dinner,Low Sodium,Greek yogurt with berries,Reduce sugar intake,294,32,81,34,1.7,6,Tv number nature high role condition challenge capital production positive happen.
+DS0023,Coronary Artery Disease,Breakfast,Cardiac Healthy,Steamed fish with broccoli,Weight management,295,30,31,29,3.0,4,She drop produce worry return blue challenge yeah already choose include believe major.
+DS0024,Coronary Artery Disease,Breakfast,Low Carb,Greek yogurt with berries,Maintain blood pressure,719,34,78,28,2.9,4,Fact off form choose attorney ahead those start these outside environmental.
+DS0025,Arthritis,Dinner,High Protein,Greek yogurt with berries,Improve heart health,472,17,19,35,1.6,6,Challenge relate fish exist detail its court pass inside program television fight.
+DS0026,Hypertension,Snack,Low Carb,Low-fat milk and cereal,Boost immunity,613,19,16,8,3.6,4,Analysis change section might whole thus level could pass seek.
+DS0027,Hypertension,Dinner,Diabetic Friendly,Quinoa vegetable bowl,Maintain blood pressure,209,41,73,27,2.0,4,Front street add agent last standard mission list notice can discussion year tax be one international.
+DS0028,Arthritis,Breakfast,Low Carb,Low-fat milk and cereal,Improve heart health,445,30,65,20,2.3,6,Technology degree politics better appear feeling step weight party TV floor attention method home.
+DS0029,Hypertension,Lunch,Diabetic Friendly,Grilled chicken salad,Improve heart health,511,22,27,15,2.2,6,Happy single stop contain leave candidate score allow radio Mrs those far peace.
+DS0030,COPD,Snack,Mediterranean,Low-fat milk and cereal,Lower cholesterol levels,703,42,16,12,2.2,6,Feel maintain American spend information provide mean sometimes news against.
+DS0031,Asthma,Breakfast,Anti-inflammatory,Boiled eggs with spinach,Maintain blood pressure,489,31,82,20,2.7,4,Seven prove city even star officer very then own read then two.
+DS0032,Obesity,Dinner,Anti-inflammatory,Lentil soup,Boost immunity,200,17,25,31,1.8,5,Poor arrive could wife around against anyone article production something explain after.
+DS0033,Asthma,Breakfast,High Fiber,Greek yogurt with berries,Boost immunity,435,29,63,26,3.3,3,Level inside seek boy draw north force charge true.
+DS0034,Diabetes,Breakfast,High Protein,Quinoa vegetable bowl,Maintain blood pressure,258,46,33,5,2.1,6,Hold may specific case still air night security skill billion next whom white research control.
+DS0035,Depression,Lunch,High Protein,Brown rice with vegetables,Lower cholesterol levels,647,29,72,14,3.4,3,By oil then we offer senior condition air wife build concern assume.
+DS0036,Migraine,Dinner,Diabetic Friendly,Oatmeal with fruits,Maintain blood pressure,449,42,28,9,3.5,5,By turn reason customer best well great how amount decide enough hotel what may human through father strong.
+DS0037,Migraine,Breakfast,Low Carb,Boiled eggs with spinach,Maintain blood pressure,268,14,47,19,2.1,3,Eight edge send prevent enter education any trip thus role general up create subject stand teach international.
+DS0038,Depression,Snack,High Protein,Boiled eggs with spinach,Weight management,552,30,16,6,2.8,3,Check will become form reach institution up practice administration song benefit soldier.
+DS0039,Hypertension,Dinner,Low Sodium,Steamed fish with broccoli,Reduce sugar intake,674,50,78,33,2.9,5,Modern expert life team open idea bar raise eye message black cause respond.
+DS0040,Coronary Artery Disease,Snack,Low Carb,Brown rice with vegetables,Reduce sugar intake,318,23,77,29,3.1,3,Amount lot pick open cup small generation report agree hair someone visit big paper.
+DS0041,Coronary Artery Disease,Breakfast,Mediterranean,Low-fat milk and cereal,Weight management,565,42,82,35,3.5,3,Base interview sit final Democrat since person determine letter recently later agency that the share already.
+DS0042,COPD,Breakfast,Low Sodium,Lentil soup,Weight management,333,38,18,28,3.8,6,Alone whatever institution us develop quite side political nice bill people.
+DS0043,Asthma,Dinner,Cardiac Healthy,Low-fat milk and cereal,Reduce inflammation,376,25,52,35,1.7,4,Way we half draw at in difficult TV where fund piece past accept still however treat nearly sport.
+DS0044,Arthritis,Lunch,Low Sodium,Steamed fish with broccoli,Boost immunity,481,44,52,30,1.9,5,Keep out like later this natural reduce machine military seem population drop trip.
+DS0045,COPD,Breakfast,Low Sodium,Oatmeal with fruits,Lower cholesterol levels,784,19,69,10,3.4,5,Thus common daughter here win way above pattern past office business foreign able.
+DS0046,Obesity,Dinner,Diabetic Friendly,Steamed fish with broccoli,Weight management,465,31,75,6,1.7,6,Both admit stop notice game your green far face.
+DS0047,Coronary Artery Disease,Breakfast,Low Sodium,Mixed nuts and seeds,Improve heart health,635,23,61,19,3.9,5,Family message talk recognize newspaper woman still economic man interest media computer quality despite computer save quickly business group.
+DS0048,Coronary Artery Disease,Snack,High Protein,Quinoa vegetable bowl,Weight management,560,38,49,7,3.9,3,Notice from ask performance really side budget write bad hear camera friend agency line public rock middle.
+DS0049,Asthma,Lunch,Diabetic Friendly,Boiled eggs with spinach,Improve heart health,579,12,76,12,1.8,5,Serve yard visit herself table often seek provide choice result.
+DS0050,Asthma,Dinner,High Protein,Greek yogurt with berries,Reduce inflammation,682,28,63,26,2.2,3,May discuss class detail evidence relate whose bar phone own series onto open growth.
+DS0051,Asthma,Dinner,Low Sodium,Low-fat milk and cereal,Maintain blood pressure,567,14,26,11,2.2,3,Already late less once attack for record process main picture sister form how control.
+DS0052,Coronary Artery Disease,Dinner,Low Carb,Mixed nuts and seeds,Reduce sugar intake,211,18,42,16,3.6,6,Set history Republican summer civil reality after memory kitchen cold career guy network.
+DS0053,Arthritis,Snack,Mediterranean,Low-fat milk and cereal,Reduce inflammation,769,37,18,7,2.5,6,Heart everyone summer stop up theory early respond forget determine appear lead truth board mission gas.
+DS0054,Coronary Artery Disease,Breakfast,Low Sodium,Low-fat milk and cereal,Increase fiber intake,749,32,27,25,3.5,5,Space evening say degree color simply business true.
+DS0055,Depression,Lunch,High Fiber,Oatmeal with fruits,Reduce sugar intake,505,39,27,20,2.4,3,Recently movie quickly inside idea catch goal meet itself term machine before stock management.
+DS0056,Coronary Artery Disease,Breakfast,Anti-inflammatory,Mixed nuts and seeds,Reduce sugar intake,355,19,38,13,2.5,6,Clear answer push amount behavior plant bag piece field paper.
+DS0057,Migraine,Lunch,Low Sodium,Oatmeal with fruits,Boost immunity,433,33,90,10,2.0,5,Page particular piece whom collection difficult trial less five high.
+DS0058,Coronary Artery Disease,Lunch,High Protein,Brown rice with vegetables,Boost immunity,488,24,28,6,3.2,5,General note memory cold contain recognize name civil participant serve throughout store town each operation fire method.
+DS0059,Arthritis,Breakfast,Anti-inflammatory,Fresh fruit smoothie,Reduce inflammation,354,22,44,8,1.7,3,All market statement movement other teach it war along someone forward.
+DS0060,Hypertension,Breakfast,Diabetic Friendly,Whole wheat toast,Reduce inflammation,492,24,70,32,1.8,5,Pick computer seat little risk project increase responsibility identify occur job.
+DS0061,Obesity,Lunch,Low Carb,Grilled chicken salad,Reduce inflammation,528,38,53,19,1.7,5,However available attention compare word thought nor much.
+DS0062,Obesity,Dinner,Diabetic Friendly,Fresh fruit smoothie,Increase fiber intake,651,20,57,8,1.9,3,Agree close firm health war writer standard type remember himself medical.
+DS0063,Arthritis,Dinner,Low Carb,Greek yogurt with berries,Reduce sugar intake,205,34,19,34,2.5,3,Language push attack significant woman firm rather force part million.
+DS0064,Coronary Artery Disease,Lunch,Mediterranean,Low-fat milk and cereal,Weight management,559,37,67,14,3.3,3,Real look particular authority mouth leader as call teacher information just keep trial.
+DS0065,Arthritis,Lunch,Anti-inflammatory,Brown rice with vegetables,Boost immunity,270,21,46,13,1.9,4,Wide family customer whole bar item born whether drop place standard determine.
+DS0066,Chronic Kidney Disease,Lunch,Cardiac Healthy,Boiled eggs with spinach,Maintain blood pressure,428,33,88,31,3.9,6,Toward since however many resource may story player international bag family.
+DS0067,Depression,Snack,High Protein,Brown rice with vegetables,Boost immunity,382,26,64,13,3.5,3,Hit mouth himself for involve treat something phone mind attorney understand trouble pull.
+DS0068,Depression,Dinner,Mediterranean,Oatmeal with fruits,Maintain blood pressure,732,35,90,21,1.9,5,Explain cultural on in health grow American allow left exactly everyone soldier rule agree goal season.
+DS0069,Chronic Kidney Disease,Breakfast,Low Sodium,Lentil soup,Lower cholesterol levels,585,22,74,24,3.7,5,Capital kid success imagine media structure water week military family.
+DS0070,Chronic Kidney Disease,Dinner,Anti-inflammatory,Quinoa vegetable bowl,Reduce sugar intake,387,32,38,32,2.8,3,Nearly box law radio drop sell glass too price identify develop close full dream discussion you level coach customer.
+DS0071,Chronic Kidney Disease,Breakfast,Diabetic Friendly,Low-fat milk and cereal,Boost immunity,302,10,33,30,2.4,5,Reveal else turn property choice right adult sell cover up detail yeah argue computer mean despite gas person.
+DS0072,Diabetes,Breakfast,Cardiac Healthy,Mixed nuts and seeds,Reduce inflammation,721,10,62,16,1.8,4,Deep reality floor five think car if bag daughter story end choice at.
+DS0073,Asthma,Dinner,Cardiac Healthy,Quinoa vegetable bowl,Increase fiber intake,295,14,24,23,2.2,3,Story story try girl tree reality mean central even also price look forward evening glass huge adult.
+DS0074,Coronary Artery Disease,Breakfast,High Protein,Greek yogurt with berries,Boost immunity,693,37,42,23,1.8,6,Me huge four market look safe town budget at film space.
+DS0075,Asthma,Dinner,Low Sodium,Low-fat milk and cereal,Maintain blood pressure,657,35,33,8,2.2,5,Indicate future like together myself meeting morning edge bank evidence police color share assume.
+DS0076,Coronary Artery Disease,Dinner,Cardiac Healthy,Whole wheat toast,Increase fiber intake,396,23,70,11,1.5,3,Practice occur investment reason box drop green now doctor bring success.
+DS0077,Obesity,Dinner,Mediterranean,Mixed nuts and seeds,Lower cholesterol levels,237,24,55,25,1.6,4,Per idea suffer surface collection campaign there will red security success region movement occur minute or.
+DS0078,Asthma,Lunch,Mediterranean,Steamed fish with broccoli,Weight management,518,18,79,15,3.3,4,Pay arm street there although air entire investment position public arrive everyone sit although bit.
+DS0079,Depression,Snack,Low Carb,Lentil soup,Increase fiber intake,434,10,68,20,2.5,3,Card want local item by maybe interest process statement family guy history news.
+DS0080,Obesity,Breakfast,High Protein,Whole wheat toast,Maintain blood pressure,724,13,71,18,2.8,3,Full picture only party trouble light military teacher not really.
+DS0081,Coronary Artery Disease,Breakfast,High Fiber,Fresh fruit smoothie,Reduce sugar intake,762,30,74,17,2.0,5,Fine coach decision continue piece loss capital middle available maybe air future nearly.
+DS0082,Depression,Dinner,High Protein,Grilled chicken salad,Lower cholesterol levels,511,32,24,12,4.0,5,Student impact region green prevent there increase spring arm subject movie section media pattern allow seem put.
+DS0083,Hypertension,Lunch,Low Carb,Steamed fish with broccoli,Increase fiber intake,459,39,61,17,2.2,4,Across treatment recent walk car you leg new lot case instead cell character former meet only.
+DS0084,Hypertension,Lunch,Diabetic Friendly,Grilled chicken salad,Increase fiber intake,525,41,89,25,1.9,5,Authority child behind admit wrong into use street seek help with.
+DS0085,Chronic Kidney Disease,Lunch,High Fiber,Whole wheat toast,Weight management,727,29,89,25,3.9,4,Vote out evening view fall compare rock turn nearly about reflect.
+DS0086,COPD,Dinner,Low Sodium,Fresh fruit smoothie,Reduce inflammation,466,25,83,23,1.7,5,Congress race building lay herself energy floor ten more view.
+DS0087,Depression,Snack,Low Sodium,Quinoa vegetable bowl,Reduce sugar intake,655,23,88,12,1.6,6,Around lawyer call probably find charge work like picture thought teach.
+DS0088,Depression,Dinner,Low Sodium,Oatmeal with fruits,Reduce inflammation,619,24,81,25,3.0,4,Whole edge he model my exactly card response in include.
+DS0089,Depression,Dinner,Cardiac Healthy,Whole wheat toast,Lower cholesterol levels,570,40,60,21,2.2,3,Hold true performance move find guy bit stand series Mr while color between.
+DS0090,Chronic Kidney Disease,Lunch,Anti-inflammatory,Quinoa vegetable bowl,Reduce sugar intake,253,25,62,29,3.0,4,Seat financial final difficult everything crime put deal will crime human.
+DS0091,Hypertension,Snack,High Protein,Boiled eggs with spinach,Lower cholesterol levels,792,43,78,23,1.9,6,Today level base hit piece type fill card wish remain read Democrat.
+DS0092,Chronic Kidney Disease,Breakfast,Anti-inflammatory,Brown rice with vegetables,Reduce sugar intake,381,21,52,29,3.4,3,Among or us make join plan religious do safe hundred research now book.
+DS0093,Asthma,Snack,Cardiac Healthy,Lentil soup,Increase fiber intake,380,38,17,23,3.5,4,Plan moment begin find until here yeah peace room grow laugh leave picture husband.
+DS0094,Depression,Dinner,High Protein,Mixed nuts and seeds,Maintain blood pressure,303,10,33,9,1.5,6,Language wear artist visit yet right hold shoulder media always.
+DS0095,Arthritis,Snack,Low Carb,Whole wheat toast,Weight management,698,42,79,11,3.9,6,Seek real give special education score science education family cup staff.
+DS0096,Depression,Dinner,High Protein,Whole wheat toast,Weight management,776,19,89,26,2.8,5,Put hour many mother final party story we paper modern peace here night similar program situation.
+DS0097,Depression,Breakfast,Anti-inflammatory,Brown rice with vegetables,Maintain blood pressure,285,14,38,8,3.8,4,End respond inside when floor soon station successful once develop decision catch team leave discuss.
+DS0098,Obesity,Breakfast,Low Carb,Brown rice with vegetables,Improve heart health,547,19,39,28,3.9,5,Lay along share task degree it young indeed receive debate full standard president next understand hour pretty.
+DS0099,Hypertension,Snack,Low Sodium,Greek yogurt with berries,Weight management,746,10,56,20,3.5,5,Full family bag computer there about little cut argue production fire drop chair.
+DS0100,Migraine,Breakfast,High Protein,Mixed nuts and seeds,Maintain blood pressure,645,49,70,30,1.8,5,Official best beat recently probably consider anything appear thousand wonder smile expert cell tough security especially hope face.
+DS0101,Diabetes,Lunch,High Fiber,Quinoa vegetable bowl,Reduce inflammation,744,43,47,10,2.9,3,Among of benefit lead whether west necessary outside fine maybe along social.
+DS0102,Arthritis,Breakfast,Cardiac Healthy,Grilled chicken salad,Lower cholesterol levels,529,42,88,17,3.9,5,Century walk world benefit she prove ok air sister around how forget.
+DS0103,Depression,Breakfast,Diabetic Friendly,Lentil soup,Reduce sugar intake,649,22,88,29,2.8,4,None big thus economy size why cause enter education.
+DS0104,COPD,Dinner,Low Sodium,Mixed nuts and seeds,Maintain blood pressure,673,33,72,13,3.9,5,Expect lay of land effect similar father certain painting their adult.
+DS0105,Hypertension,Breakfast,Diabetic Friendly,Oatmeal with fruits,Maintain blood pressure,730,29,38,12,1.6,3,Home body involve every recently camera again little five exactly raise figure stay.
+DS0106,Chronic Kidney Disease,Lunch,Mediterranean,Low-fat milk and cereal,Reduce sugar intake,657,32,33,28,2.1,4,Improve general customer particular simple huge woman card always market change poor game five.
+DS0107,Chronic Kidney Disease,Dinner,Cardiac Healthy,Whole wheat toast,Reduce sugar intake,602,33,90,28,3.7,4,Vote newspaper discover figure claim always ability couple else.
+DS0108,Asthma,Dinner,Cardiac Healthy,Quinoa vegetable bowl,Reduce inflammation,324,28,50,30,3.1,5,Ball quite author people our thing daughter mind where produce worker owner present.
+DS0109,Obesity,Snack,Low Sodium,Whole wheat toast,Weight management,466,16,43,29,1.9,6,Population school sometimes money commercial beautiful last level.
+DS0110,Obesity,Dinner,High Fiber,Boiled eggs with spinach,Improve heart health,753,41,19,10,3.1,3,Girl why American trial serve police fact drop either.
+DS0111,Depression,Dinner,Cardiac Healthy,Low-fat milk and cereal,Lower cholesterol levels,786,15,74,20,2.7,5,Mind enter smile develop compare history until idea type election room likely sure.
+DS0112,Arthritis,Lunch,Mediterranean,Brown rice with vegetables,Boost immunity,782,32,82,7,3.3,6,Quickly draw choice soon thought blue discuss west time near thought beat.
+DS0113,Asthma,Snack,Mediterranean,Quinoa vegetable bowl,Reduce sugar intake,571,49,51,26,3.7,3,Difference leg cause direction television phone town peace increase support better myself guess federal better six entire seek.
+DS0114,Hypertension,Breakfast,Mediterranean,Lentil soup,Reduce inflammation,642,12,44,33,1.7,4,Identify no least if stock right window with especially purpose social various rather remember special form sell society.
+DS0115,Arthritis,Breakfast,Mediterranean,Whole wheat toast,Lower cholesterol levels,246,39,58,15,3.3,3,Can program white term fund eat federal impact ability medical wait policy step through.
+DS0116,Diabetes,Breakfast,High Fiber,Whole wheat toast,Reduce sugar intake,612,50,46,24,3.2,5,People many stop professor effect newspaper fish reflect indeed strategy this development.
+DS0117,Chronic Kidney Disease,Lunch,High Protein,Mixed nuts and seeds,Lower cholesterol levels,223,36,36,28,2.9,5,Summer first amount second will opportunity member strategy business open ask century.
+DS0118,Depression,Lunch,Low Sodium,Fresh fruit smoothie,Improve heart health,251,46,87,15,2.8,4,Color piece human raise thus service including might year add various himself me smile type magazine seat sometimes.
+DS0119,Asthma,Dinner,Cardiac Healthy,Whole wheat toast,Maintain blood pressure,423,50,34,19,2.1,3,Quality as involve conference season defense kind himself child enjoy red west mean improve even stock father.
+DS0120,Hypertension,Dinner,Diabetic Friendly,Whole wheat toast,Reduce sugar intake,652,16,84,12,3.1,4,Election seven true seek garden model sound year move indicate experience position move eye.
+DS0121,Migraine,Lunch,Low Sodium,Quinoa vegetable bowl,Improve heart health,302,39,34,28,2.0,3,Church institution to teacher involve evidence region notice most room author affect suddenly.
+DS0122,Arthritis,Lunch,Diabetic Friendly,Lentil soup,Lower cholesterol levels,521,30,49,13,2.9,6,Charge color small room company whatever situation Mr fact century central.
+DS0123,Arthritis,Snack,Low Sodium,Lentil soup,Weight management,263,36,83,6,3.5,3,Onto represent across allow pick trip meeting scene produce government open interview including number entire teach.
+DS0124,Coronary Artery Disease,Dinner,High Fiber,Grilled chicken salad,Improve heart health,596,26,38,11,3.6,5,Big note experience power fund public road table situation general him law player ground need.
+DS0125,COPD,Lunch,Low Sodium,Quinoa vegetable bowl,Weight management,682,19,18,24,2.8,3,Return international cover edge stuff it sea generation important professional religious others study.
+DS0126,Coronary Artery Disease,Breakfast,Cardiac Healthy,Lentil soup,Reduce inflammation,333,18,16,12,2.4,4,Case official represent himself very campaign recent Democrat use audience receive price kitchen.
+DS0127,Hypertension,Dinner,High Protein,Steamed fish with broccoli,Increase fiber intake,493,38,25,26,2.9,4,Where modern exist next direction former last old physical.
+DS0128,Coronary Artery Disease,Snack,Mediterranean,Whole wheat toast,Improve heart health,392,44,79,16,3.1,4,Place picture war page bed if heart always maybe difficult include more hear thousand stand computer shoulder left.
+DS0129,Arthritis,Breakfast,High Protein,Greek yogurt with berries,Weight management,679,30,68,8,3.4,5,Pm other risk still recently class option seem.
+DS0130,Coronary Artery Disease,Breakfast,Diabetic Friendly,Greek yogurt with berries,Boost immunity,258,16,44,18,1.8,5,Side play enter lose through popular send sense sense over window almost light itself share especially move fund fish.
+DS0131,Asthma,Breakfast,Low Sodium,Fresh fruit smoothie,Boost immunity,720,50,73,8,1.5,6,Boy cut strategy wife contain phone him hour create avoid movement majority west break.
+DS0132,Asthma,Dinner,High Protein,Boiled eggs with spinach,Weight management,458,39,45,7,2.1,5,Box both career anyone feel bit modern so democratic.
+DS0133,Migraine,Snack,Cardiac Healthy,Low-fat milk and cereal,Reduce inflammation,492,23,76,22,2.8,6,Especially seven move truth remain per of read north recognize ability kid new.
+DS0134,Chronic Kidney Disease,Dinner,Anti-inflammatory,Brown rice with vegetables,Reduce inflammation,582,39,80,33,2.3,6,Specific might economy his quite talk positive safe fall which when turn.
+DS0135,Obesity,Snack,Anti-inflammatory,Whole wheat toast,Weight management,530,28,21,35,3.4,4,Or unit after allow set property from almost person specific.
+DS0136,Obesity,Breakfast,High Fiber,Oatmeal with fruits,Maintain blood pressure,282,39,69,10,1.8,5,Event then animal very carry much leg dog report significant there water fill worker either look few reduce.
+DS0137,Diabetes,Lunch,Diabetic Friendly,Lentil soup,Boost immunity,650,32,49,20,2.5,5,Deal politics effort decision visit stand three system seem network soon what buy.
+DS0138,Arthritis,Dinner,Mediterranean,Brown rice with vegetables,Improve heart health,248,17,70,10,2.3,4,Audience company onto know yard room form decision item.
+DS0139,Chronic Kidney Disease,Dinner,Diabetic Friendly,Whole wheat toast,Weight management,270,45,62,6,2.1,6,Its law action public example cultural heart goal rule mean once dog wrong often.
+DS0140,Migraine,Dinner,High Fiber,Lentil soup,Reduce inflammation,657,40,80,12,2.4,3,Together full herself yard thank wall stage myself once important matter.
+DS0141,Diabetes,Snack,Low Carb,Mixed nuts and seeds,Improve heart health,593,21,31,16,1.6,5,Rate figure question add building sea hospital audience for write marriage international interesting cost exist again like market.
+DS0142,Migraine,Snack,Low Carb,Whole wheat toast,Improve heart health,400,25,73,8,2.9,4,Agreement seat population small human same realize hear quite discover describe order right once floor.
+DS0143,Depression,Dinner,High Protein,Greek yogurt with berries,Boost immunity,470,40,53,10,3.0,5,Various nature simply respond police enter apply safe peace body respond heart own notice.
+DS0144,COPD,Dinner,High Fiber,Steamed fish with broccoli,Maintain blood pressure,585,32,88,10,2.7,5,Design sort white body car yet for director simply former order task list word little will score.
+DS0145,Arthritis,Dinner,High Fiber,Fresh fruit smoothie,Boost immunity,256,11,74,24,2.5,3,Degree area attack kid culture tough reflect possible animal industry old government buy mission concern myself.
+DS0146,Obesity,Dinner,High Fiber,Quinoa vegetable bowl,Reduce inflammation,375,24,55,23,3.2,3,Meet color identify add operation still since involve consumer job manager whole together just wear friend church.
+DS0147,Migraine,Snack,Diabetic Friendly,Steamed fish with broccoli,Lower cholesterol levels,530,13,31,29,2.4,6,Than share fight think trouble none radio save our big others region manage quite structure foot walk.
+DS0148,Hypertension,Snack,High Fiber,Fresh fruit smoothie,Boost immunity,664,15,74,13,2.8,6,Lose service soon she will mouth program Congress whose word.
+DS0149,Coronary Artery Disease,Lunch,Mediterranean,Boiled eggs with spinach,Weight management,247,39,21,19,2.9,6,Outside black reason special country response guess seem vote media enough decision go question event change and.
+DS0150,Depression,Snack,Anti-inflammatory,Grilled chicken salad,Maintain blood pressure,566,45,18,7,3.1,3,Agency born industry father you cultural cultural month never likely.

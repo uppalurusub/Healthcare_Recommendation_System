@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+transformers
+torch
+sentence-transformers
+spacy
+python-multipart
+uv
+streamlit
+loguru
+mlflow
+nltk
