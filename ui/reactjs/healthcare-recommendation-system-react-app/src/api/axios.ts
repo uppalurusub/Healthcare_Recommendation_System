@@ -1,5 +1,3 @@
-// src/api/axios.ts
-
 import type {
   AxiosError,
   AxiosInstance,
